@@ -1,10 +1,10 @@
 [package]
 name = "json"
-version = "3.12.0"
+version = "3.12.1"
 type = "lib"
 
 [language]
-cxx = "c++17"
+cxx = "c++23"
 
 [dependencies]
 upstream = { url = "https://github.com/nlohmann/json/archive/refs/tags/v3.12.0.tar.gz" }
